@@ -1,0 +1,204 @@
+[submodule "go-ipfs"]
+	path = go-ipfs
+	url = git@github.com:ipfs/go-ipfs.git
+[submodule "go-ipld-cbor"]
+	path = go-ipld-cbor
+	url = git@github.com:ipfs/go-ipld-cbor.git
+[submodule "go-ipld-format"]
+	path = go-ipld-format
+	url = git@github.com:ipfs/go-ipld-format.git
+[submodule "go-ipld-git"]
+	path = go-ipld-git
+	url = git@github.com:ipfs/go-ipld-git.git
+[submodule "go-ipld-legacy"]
+	path = go-ipld-legacy
+	url = git@github.com:ipfs/go-ipld-legacy.git
+[submodule "go-car"]
+	path = go-car
+	url = git@github.com:ipld/go-car.git
+[submodule "go-codec-dagpb"]
+	path = go-codec-dagpb
+	url = git@github.com:ipld/go-codec-dagpb.git
+[submodule "go-ipld-prime"]
+	path = go-ipld-prime
+	url = git@github.com:ipld/go-ipld-prime.git
+[submodule "go-doh-resolver"]
+	path = go-doh-resolver
+	url = git@github.com:libp2p/go-doh-resolver.git
+[submodule "go-libp2p"]
+	path = go-libp2p
+	url = git@github.com:libp2p/go-libp2p.git
+[submodule "go-libp2p-connmgr"]
+	path = go-libp2p-connmgr
+	url = git@github.com:libp2p/go-libp2p-connmgr.git
+[submodule "go-libp2p-core"]
+	path = go-libp2p-core
+	url = git@github.com:libp2p/go-libp2p-core.git
+[submodule "go-libp2p-discovery"]
+	path = go-libp2p-discovery
+	url = git@github.com:libp2p/go-libp2p-discovery.git
+[submodule "go-libp2p-http"]
+	path = go-libp2p-http
+	url = git@github.com:libp2p/go-libp2p-http.git
+[submodule "go-libp2p-kad-dht"]
+	path = go-libp2p-kad-dht
+	url = git@github.com:libp2p/go-libp2p-kad-dht.git
+[submodule "go-libp2p-kbucket"]
+	path = go-libp2p-kbucket
+	url = git@github.com:libp2p/go-libp2p-kbucket.git
+[submodule "go-libp2p-loggables"]
+	path = go-libp2p-loggables
+	url = git@github.com:libp2p/go-libp2p-loggables.git
+[submodule "go-libp2p-mplex"]
+	path = go-libp2p-mplex
+	url = git@github.com:libp2p/go-libp2p-mplex.git
+[submodule "go-libp2p-noise"]
+	path = go-libp2p-noise
+	url = git@github.com:libp2p/go-libp2p-noise.git
+[submodule "go-libp2p-peerstore"]
+	path = go-libp2p-peerstore
+	url = git@github.com:libp2p/go-libp2p-peerstore.git
+[submodule "go-libp2p-pubsub"]
+	path = go-libp2p-pubsub
+	url = git@github.com:libp2p/go-libp2p-pubsub.git
+[submodule "go-libp2p-pubsub-router"]
+	path = go-libp2p-pubsub-router
+	url = git@github.com:libp2p/go-libp2p-pubsub-router.git
+[submodule "go-libp2p-quic-transport"]
+	path = go-libp2p-quic-transport
+	url = git@github.com:libp2p/go-libp2p-quic-transport.git
+[submodule "go-libp2p-record"]
+	path = go-libp2p-record
+	url = git@github.com:libp2p/go-libp2p-record.git
+[submodule "go-libp2p-routing-helpers"]
+	path = go-libp2p-routing-helpers
+	url = git@github.com:libp2p/go-libp2p-routing-helpers.git
+[submodule "go-libp2p-swarm"]
+	path = go-libp2p-swarm
+	url = git@github.com:libp2p/go-libp2p-swarm.git
+[submodule "go-libp2p-testing"]
+	path = go-libp2p-testing
+	url = git@github.com:libp2p/go-libp2p-testing.git
+[submodule "go-libp2p-tls"]
+	path = go-libp2p-tls
+	url = git@github.com:libp2p/go-libp2p-tls.git
+[submodule "go-libp2p-yamux"]
+	path = go-libp2p-yamux
+	url = git@github.com:libp2p/go-libp2p-yamux.git
+[submodule "go-socket-activation"]
+	path = go-socket-activation
+	url = git@github.com:libp2p/go-socket-activation.git
+[submodule "go-tcp-transport"]
+	path = go-tcp-transport
+	url = git@github.com:libp2p/go-tcp-transport.git
+[submodule "go-ws-transport"]
+	path = go-ws-transport
+	url = git@github.com:libp2p/go-ws-transport.git
+[submodule "go-multiaddr"]
+	path = go-multiaddr
+	url = git@github.com:multiformats/go-multiaddr.git
+[submodule "go-multiaddr-dns"]
+	path = go-multiaddr-dns
+	url = git@github.com:multiformats/go-multiaddr-dns.git
+[submodule "go-multibase"]
+	path = go-multibase
+	url = git@github.com:multiformats/go-multibase.git
+[submodule "go-multicodec"]
+	path = go-multicodec
+	url = git@github.com:multiformats/go-multicodec.git
+[submodule "go-multihash"]
+	path = go-multihash
+	url = git@github.com:multiformats/go-multihash.git
+[submodule "go-buffer-pool"]
+	path = go-buffer-pool
+	url = git@github.com:libp2p/go-buffer-pool.git
+[submodule "go-cidranger"]
+	path = go-cidranger
+	url = git@github.com:libp2p/go-cidranger.git
+[submodule "go-conn-security-multistream"]
+	path = go-conn-security-multistream
+	url = git@github.com:libp2p/go-conn-security-multistream.git
+[submodule "go-eventbus"]
+	path = go-eventbus
+	url = git@github.com:libp2p/go-eventbus.git
+[submodule "go-flow-metrics"]
+	path = go-flow-metrics
+	url = git@github.com:libp2p/go-flow-metrics.git
+[submodule "go-libp2p-asn-util"]
+	path = go-libp2p-asn-util
+	url = git@github.com:libp2p/go-libp2p-asn-util.git
+[submodule "go-libp2p-blankhost"]
+	path = go-libp2p-blankhost
+	url = git@github.com:libp2p/go-libp2p-blankhost.git
+[submodule "go-libp2p-circuit"]
+	path = go-libp2p-circuit
+	url = git@github.com:libp2p/go-libp2p-circuit.git
+[submodule "go-libp2p-gostream"]
+	path = go-libp2p-gostream
+	url = git@github.com:libp2p/go-libp2p-gostream.git
+[submodule "go-libp2p-nat"]
+	path = go-libp2p-nat
+	url = git@github.com:libp2p/go-libp2p-nat.git
+[submodule "go-libp2p-resource-manager"]
+	path = go-libp2p-resource-manager
+	url = git@github.com:libp2p/go-libp2p-resource-manager.git
+[submodule "go-libp2p-transport-upgrader"]
+	path = go-libp2p-transport-upgrader
+	url = git@github.com:libp2p/go-libp2p-transport-upgrader.git
+[submodule "go-libp2p-xor"]
+	path = go-libp2p-xor
+	url = git@github.com:libp2p/go-libp2p-xor.git
+[submodule "go-mplex"]
+	path = go-mplex
+	url = git@github.com:libp2p/go-mplex.git
+[submodule "go-msgio"]
+	path = go-msgio
+	url = git@github.com:libp2p/go-msgio.git
+[submodule "go-netroute"]
+	path = go-netroute
+	url = git@github.com:libp2p/go-netroute.git
+[submodule "go-openssl"]
+	path = go-openssl
+	url = git@github.com:libp2p/go-openssl.git
+[submodule "go-reuseport"]
+	path = go-reuseport
+	url = git@github.com:libp2p/go-reuseport.git
+[submodule "go-reuseport-transport"]
+	path = go-reuseport-transport
+	url = git@github.com:libp2p/go-reuseport-transport.git
+[submodule "go-stream-muxer-multistream"]
+	path = go-stream-muxer-multistream
+	url = git@github.com:libp2p/go-stream-muxer-multistream.git
+[submodule "go-base32"]
+	path = go-base32
+	url = git@github.com:multiformats/go-base32.git
+[submodule "go-base36"]
+	path = go-base36
+	url = git@github.com:multiformats/go-base36.git
+[submodule "go-multiaddr-fmt"]
+	path = go-multiaddr-fmt
+	url = git@github.com:multiformats/go-multiaddr-fmt.git
+[submodule "go-multistream"]
+	path = go-multistream
+	url = git@github.com:multiformats/go-multistream.git
+[submodule "go-varint"]
+	path = go-varint
+	url = git@github.com:multiformats/go-varint.git
+[submodule "go-libp2p-pnet"]
+	path = go-libp2p-pnet
+	url = git@github.com:libp2p/go-libp2p-pnet.git
+[submodule "go-nat"]
+	path = go-nat
+	url = git@github.com:libp2p/go-nat.git
+[submodule "go-yamux"]
+	path = go-yamux
+	url = git@github.com:libp2p/go-yamux
+[submodule "zeroconf"]
+	path = zeroconf
+	url = git@github.com:libp2p/zeroconf.git
+[submodule "go-bitswap"]
+	path = go-bitswap
+	url = git@github.com:ipfs/go-bitswap
+[submodule "go-log"]
+	path = go-log
+	url = git@github.com:ipfs/go-log
